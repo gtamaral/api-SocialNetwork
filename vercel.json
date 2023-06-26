@@ -8,11 +8,11 @@
     ],
     "routes": [
         {
-            "src": "/(.*)",
-            "dest": "/"
+            "src": "(.*)",
+            "dest": "./ app.js"
         }
     ],
     "env": {
-        "MONGO_URL": "$MONGO_URL" 
+        "MONGO_URL": "${MONGO_URL}" 
     }
 }
