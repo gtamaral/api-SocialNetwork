@@ -13,7 +13,7 @@ app.use(express.json())
 app.use(express.urlencoded({extended: false}));
 
 // solve CORS = executa req pelo mesmo dominio => permite que o servidor responda a solicitações feitas a partir do domínio
-app.use(cors({ credentials: true, origin: "http://localhost:3000" }));
+app.use(cors({ credentials: true, origin: "https://gtgram.onrender.com" }));
 
 //upload directory
 app.use("/uploads", express.static(path.join(__dirname, "/uploads")));
