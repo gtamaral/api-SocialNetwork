@@ -56,7 +56,7 @@ O projeto foi desenvolvido durante o curso "React do zero a maestria". A aplica�
 
 Este projeto é divido em 2 partes:
 1. Backend 
-2. Frontend (https://github.com/gtamaral/gtGram-frontend)
+2. [Frontend] (https://github.com/gtamaral/gtGram-frontend)
 
 
 ### Pré-requisitos
