@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center"> 
-	📖📓  API desenvolvida para o desenvolvimento da aplicação do GtGram  📓📖
+	📖📓  API desenvolvida para a aplicação da rede social GtGram  📓📖
 </h4>
 
 
