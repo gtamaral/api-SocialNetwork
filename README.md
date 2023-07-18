@@ -34,15 +34,11 @@ O projeto foi desenvolvido durante o curso "React do zero a maestria". A aplica�
 
 ---
 ## 🛠 Tecnologias
-- Node.js: Ambiente de tempo de execução JavaScript que permite executar código JavaScript no lado do servidor.
-- Express.js: Framework web para Node.js que facilita a criação de APIs e aplicativos web.
-- MongoDB: Banco de dados NoSQL orientado a documentos para armazenamento de dados.
-- Mongoose: Biblioteca de modelagem de objetos MongoDB que simplifica a interação com o banco de dados.
-- JWT (JSON Web Token): Padrão aberto para autenticação baseada em tokens, usado para autenticar usuários e proteger rotas.
-- Bcrypt.js: Biblioteca para criptografia de senhas, utilizada para armazenar senhas de forma segura.
-- Express-validator: Módulo do Express.js que facilita a validação de dados de entrada nas requisições.
-- Multer: Middleware para o Express.js que facilita o upload de arquivos, como imagens de perfil dos usuários.
-- dotenv: Pacote que permite carregar variáveis de ambiente de um arquivo .env para uso no projeto.
+- [Node.js]
+- [Express.js]
+- [MongoDB]
+- []Mongoose]
+- [Express-validator]
 
 ## 📚 Conceitos abordados
 
@@ -50,16 +46,17 @@ O projeto foi desenvolvido durante o curso "React do zero a maestria". A aplica�
 - Autenticação 
 - Criptografia
 - Middlewares
-- Organização de Código
+- JWT (JSON Web Token)
+- Bcrypt.js
 - Proteção de Rotas
 - Uso de Promises e async/await
 - Manipulação de Erros
 
 ## 🚀 Como executar o projeto
 
-Este projeto é divido em três partes:
+Este projeto é divido em 2 partes:
 1. Backend 
-2. Frontend (Link do repositorio)
+2. Frontend (https://github.com/gtamaral/gtGram-frontend)
 
 
 ### Pré-requisitos
