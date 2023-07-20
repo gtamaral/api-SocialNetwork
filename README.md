@@ -55,7 +55,7 @@ O projeto foi desenvolvido durante o curso "React do zero a maestria". A aplica�
 ## 🚀 Como executar o projeto
 
 Este projeto é divido em 2 partes:
-1. Backend 
+1. Backend (repositório atual)
 2. [Frontend](https://github.com/gtamaral/gtGram-frontend)
 
 
