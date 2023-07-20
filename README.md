@@ -34,11 +34,11 @@ O projeto foi desenvolvido durante o curso "React do zero a maestria". A aplica�
 
 ---
 ## 🛠 Tecnologias
-- [Node.js]
-- [Express.js]
-- [MongoDB]
-- []Mongoose]
-- [Express-validator]
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- Express-validator
 
 ## 📚 Conceitos abordados
 
